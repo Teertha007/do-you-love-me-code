@@ -28,7 +28,7 @@ The page includes:
 
 1. Clone this repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Teertha007/do-you-love-me-code
 ```
 
 2. Open `do_you_love_me.html` in a web browser
